@@ -27,11 +27,3 @@ My main focus is .NET development, desktop applications, and backend systems.
 - Backend development
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustAleksey&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAleksey&layout=compact&theme=tokyonight)
-
----
