@@ -10,20 +10,11 @@ My main focus is .NET development, desktop applications, and backend systems.
 ## 🚀 Tech Stack
 
 - C#
-- C++
 - .NET
 - Windows Forms
 - WPF
 - MS SQL
 - Git
 - Visual Studio
-
----
-
-## 🧠 Currently Learning
-
-- Software architecture
-- Advanced C++
-- Backend development
 
 ---
