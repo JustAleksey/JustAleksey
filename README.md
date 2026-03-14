@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Alex
 
-<!--
-**JustAleksey/JustAleksey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 C# Developer
 
-Here are some ideas to get you started:
+I enjoy building reliable applications and learning new technologies.  
+My main focus is .NET development, desktop applications, and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- C#
+- C++
+- .NET
+- Windows Forms
+- WPF
+- MS SQL
+- Git
+- Visual Studio
+
+---
+
+## 🧠 Currently Learning
+
+- Software architecture
+- Advanced C++
+- Backend development
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustAleksey&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAleksey&layout=compact&theme=tokyonight)
+
+---
